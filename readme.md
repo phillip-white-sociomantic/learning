@@ -2,4 +2,4 @@
 
 This is my repo
 
-(c) Phill 2015
+(c) Phillip 2015
